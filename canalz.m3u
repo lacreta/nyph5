@@ -19,7 +19,7 @@ http://200.123.15.181:6011/play/a034/index.m3u8
 http://200.123.15.181:6011/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="Antena7",Antena7
-http://51.81.106.157:8084/hls/alatina.m3u8
+https://d1coqlhpf8wrax.cloudfront.net/hls/antena7.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-id="AmericaTV",AmericaTV
 http://200.123.15.181:6011/play/a01g/index.m3u8
