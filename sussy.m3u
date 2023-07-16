@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1",3ABN
+http://190.90.252.200:16001/play/a04w/index.m3u8
+#EXTINF:-1 tvg-chno="2",5000 MI TV
+http://190.90.252.200:16001/play/a00a/index.m3u8
+#EXTINF:-1 tvg-chno="3",5001 TELEMUNDO HD
+http://190.90.252.200:16001/play/a001/index.m3u8
+#EXTINF:-1 tvg-chno="4",5003 DISCOVERY CHANEL
+http://190.90.252.200:16001/play/a04b/index.m3u8
+#EXTINF:-1 tvg-chno="5",5003 Discovery HD
+http://190.90.252.200:16001/play/a05k/index.m3u8
+#EXTINF:-1 tvg-chno="6",5004 Animal Planet HD
+http://190.90.252.200:16001/play/a02r/index.m3u8
+#EXTINF:-1 tvg-chno="7",Antena7
+https://d1coqlhpf8wrax.cloudfront.net/hls/antena7.m3u8
+#EXTINF:-1 tvg-chno="8",5005 DHE
+http://190.90.252.200:16001/play/a04a/index.m3u8
+#EXTINF:-1 tvg-chno="9",5006 UNIVISION
+http://190.90.252.200:16001/play/a006/index.m3u8
+#EXTINF:-1 tvg-chno="10",5007 ID HD
+http://190.90.252.200:16001/play/a02b/index.m3u8
+#EXTINF:-1 tvg-chno="11",5008 E!
+http://190.90.252.200:16001/play/a04f/index.m3u8
+#EXTINF:-1 tvg-chno="12",5008 E! HD
+http://190.90.252.200:16001/play/a04F/index.m3u8
+#EXTINF:-1 tvg-chno="13",5009 CNN
+http://190.90.252.200:16001/play/a009/index.m3u8
+#EXTINF:-1 tvg-chno="14",5010 ID
+http://190.90.252.200:16001/play/a00b/index.m3u8
+#EXTINF:-1 tvg-chno="15",5011 Discovery H&H HD
+http://190.90.252.200:16001/play/a02h/index.m3u8
+#EXTINF:-1 tvg-chno="16",5011 H&H
+http://190.90.252.200:16001/play/a04l/index.m3u8
+#EXTINF:-1 tvg-chno="17",5012 DISCOVERY KIDS
+http://190.90.252.200:16001/play/a04d/index.m3u8
+#EXTINF:-1 tvg-chno="18",5012 Discovery Kids HD
+http://190.90.252.200:16001/play/a02g/index.m3u8
+#EXTINF:-1 tvg-chno="19",5013 TURBO
+http://190.90.252.200:16001/play/a00e/index.m3u8
+#EXTINF:-1 tvg-chno="20",5014 Discovery Theater HD
+http://190.90.252.200:16001/play/a02i/index.m3u8
+#EXTINF:-1 tvg-chno="21",5015 Discovery World HD
+http://190.90.252.200:16001/play/a02n/index.m3u8
+#EXTINF:-1 tvg-chno="22",5015 Discovey world
+http://190.90.252.200:16001/play/a04g/index.m3u8
+#EXTINF:-1 tvg-chno="23",5017 DISNEY CHANEL
+http://190.90.252.200:16001/play/a04c/index.m3u8
+#EXTINF:-1 tvg-chno="24",5017 Disney HD
+http://190.90.252.200:16001/play/a026/index.m3u8
+#EXTINF:-1 tvg-chno="25",5026 Telehit HD
+http://190.90.252.200:16001/play/a03u/index.m3u8
+#EXTINF:-1 tvg-chno="26",5027 WARNER
+http://190.90.252.200:16001/play/a049/index.m3u8
+#EXTINF:-1 tvg-chno="27",5027 Warner Channel HD
+http://190.90.252.200:16001/play/a00v/index.m3u8
+#EXTINF:-1 tvg-chno="28",5029 Nick HD
+http://190.90.252.200:16001/play/a00z/index.m3u8
+#EXTINF:-1 tvg-chno="29",5030 Space HD
+http://190.90.252.200:16001/play/a00w/index.m3u8
+#EXTINF:-1 tvg-chno="30",5030 space
+http://190.90.252.200:16001/play/a04i/index.m3u8
+#EXTINF:-1 tvg-chno="31",5032 Comedy Central HD
+http://190.90.252.200:16001/play/a02a/index.m3u8
+#EXTINF:-1 tvg-chno="32",5035 MTV 00s
+http://190.90.252.200:16001/play/a028/index.m3u8
+#EXTINF:-1 tvg-chno="33",5036 TNT HD
+http://190.90.252.200:16001/play/a027/index.m3u8
+#EXTINF:-1 tvg-chno="34",5037 TRU TV
+http://190.90.252.200:16001/play/a04o/index.m3u8
+#EXTINF:-1 tvg-chno="35",5037 TRUTV HD
+http://190.90.252.200:16001/play/a02c/index.m3u8
+#EXTINF:-1 tvg-chno="36",5040 RCN HD
+http://190.90.252.200:16001/play/a02l/index.m3u8
+#EXTINF:-1 tvg-chno="37",5041 TNT Series HD
+http://190.90.252.200:16001/play/a02k/index.m3u8
+#EXTINF:-1 tvg-chno="38",5042 Travelxp HD
+http://190.90.252.200:16001/play/a02e/index.m3u8
+#EXTINF:-1 tvg-chno="39",5043 AMC HD
+http://190.90.252.200:16001/play/a02o/index.m3u8
+#EXTINF:-1 tvg-chno="40",5044 Cartoon Network HD
+http://190.90.252.200:16001/play/a02p/index.m3u8
+#EXTINF:-1 tvg-chno="41",5046 Paramount HD
+http://190.90.252.200:16001/play/a02q/index.m3u8
+#EXTINF:-1 tvg-chno="42",5047 ESPN EXTRA HD
+http://190.90.252.200:16001/play/a047/index.m3u8
+#EXTINF:-1 tvg-chno="43",5050 UMC
+http://190.90.252.200:16001/play/a04n/index.m3u8
+#EXTINF:-1 tvg-chno="44",Canal 1 HD
+http://190.90.252.200:16001/play/a03v/index.m3u8
+#EXTINF:-1 tvg-chno="45",Caracol HD
+http://190.90.252.200:16001/play/a05i/index.m3u8
+#EXTINF:-1 tvg-chno="46",DHE HD
+http://190.90.252.200:16001/play/a05j/index.m3u8
+#EXTINF:-1 tvg-chno="47",Food Network HD
+http://190.90.252.200:16001/play/a03x/index.m3u8
+#EXTINF:-1 tvg-chno="48",GLITZ
+http://190.90.252.200:16001/play/a04u/index.m3u8
+#EXTINF:-1 tvg-chno="49",Love Nature HD
+http://190.90.252.200:16001/play/a05h/index.m3u8
+#EXTINF:-1 tvg-chno="50",TV AGRO
+http://190.90.252.200:16001/play/a04x/index.m3u8
+#EXTINF:-1 tvg-chno="51",V-PLUS
+http://190.90.252.200:16001/play/a04v/index.m3u8
