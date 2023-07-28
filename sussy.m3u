@@ -12,7 +12,7 @@ http://190.90.252.200:16001/play/a05k/index.m3u8
 #EXTINF:-1 tvg-chno="6",5004 Animal Planet HD
 http://190.90.252.200:16001/play/a02r/index.m3u8
 #EXTINF:-1 tvg-chno="7",Antena7
-https://d1coqlhpf8wrax.cloudfront.net/hls/antena7.m3u8
+https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="8",5005 DHE
 http://190.90.252.200:16001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-chno="9",5006 UNIVISION
